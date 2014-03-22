@@ -15,7 +15,6 @@ Accepted routes:
 
 - '/list'
 - '/create-entry'
-- '/delete-entry'
 - '/update-entry'
 
 
