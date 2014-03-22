@@ -1,0 +1,9 @@
+{
+  "name" : "myTodoList",
+  "description" : "A simple to-do list API",
+  "version" : "0.0.1",
+  "dependencies" : {
+    "express" : "*",
+    "mongoose" : "*"
+  }
+}
